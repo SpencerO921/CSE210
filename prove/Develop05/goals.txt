@@ -1,0 +1,4 @@
+0
+Simple|Finish coding|Finish my goals project|300|False
+Eternal|Read scriptures|Read scriptures daily|200|False|0
+Checklist|Attend the temple|Attend the Temple and perform ordinances|400|False|5|0|1000
