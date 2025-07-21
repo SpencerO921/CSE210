@@ -1,15 +1,3 @@
-// using System;
-// using System.Runtime.CompilerServices;
-
-// class Program
-// {
-//     static void Main(string[] args)
-//     {
-//         // YouTube video foundation
-//         Console.WriteLine("Hello Foundation1 World!");
-//     }
-// }
-
 using System;
 using System.Collections.Generic;
 

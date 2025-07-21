@@ -1,14 +1,3 @@
-// using System;
-
-// class Program
-// {
-//     static void Main(string[] args)
-//     {
-//         //Online Ordering program
-//         Console.WriteLine("Hello Foundation2 World!");
-//     }
-// }
-
 using System;
 using System.Collections.Generic;
 
